@@ -1,0 +1,24 @@
+{
+  "name": "botbot",
+  "version": "1.0.0",
+  "description": "Facebook Messenger Bot",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/A0dh/botbot.git"
+  },
+  "keywords": [
+    "facebook",
+    "bot",
+    "messenger"
+  ],
+  "author": "Andrej Burcev <andrej.burcev@yahoo.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/A0dh/botbot/issues"
+  },
+  "homepage": "https://github.com/A0dh/botbot#readme"
+}
